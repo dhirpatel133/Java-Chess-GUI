@@ -1,6 +1,6 @@
 //Name: Dhir Patel
 //Date: December 14, 2018
-//Purpose: To entertain Harry Potter fans with this intelligent game
+//Purpose: Harry Potter Themed Chess Game
 
 import java.awt.*;
 import java.awt.event.*;
